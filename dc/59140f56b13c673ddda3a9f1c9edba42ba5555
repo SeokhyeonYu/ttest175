@@ -1,0 +1,14 @@
+README.md
+  h_68031801d4372b 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dc59140f56b13c673ddda3a9f1c9edba42ba5555",
+  "prompts": {},
+  "humans": {
+    "h_68031801d4372b": {
+      "author": "SeokhyeonYu <seokhyeon.yu@deliveryhero.com>"
+    }
+  }
+}
