@@ -1,0 +1,25 @@
+test1.md
+  s_e36f291fefcb26::t_7b8e1d4ac5f2d8 3-8
+  h_68031801d4372b 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7b87602a4ee9283e3cebdd1e5e661afae13dfd04",
+  "prompts": {},
+  "humans": {
+    "h_68031801d4372b": {
+      "author": "SeokhyeonYu <seokhyeon.yu@deliveryhero.com>"
+    }
+  },
+  "sessions": {
+    "s_e36f291fefcb26": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a130de-8545-7604-b2b4-12e57ec74f95",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "SeokhyeonYu <seokhyeon.yu@deliveryhero.com>"
+    }
+  }
+}
